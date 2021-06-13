@@ -1,5 +1,4 @@
 # Single-Price-Grid-Component
-<!DOCTYPE html>
 
 <head>
   <meta charset="utf-8">
